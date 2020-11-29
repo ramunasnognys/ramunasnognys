@@ -2,6 +2,10 @@
 - 🌱 I’m currently learning ...
 - How to grow potatos 🥔🥔🥔
 
+# The Web Development Bootcamp 2020
+
+Welcome to your new notion workspace. Here you can organize your university or school work by subject. This will help you to stay on top of your revision schedule and ensure all your work is in one space. Feel free to personalize this template for your own studies, fill in the blanks and even add your own cover at the top! 💦
+
 <!--
 **ramunasnognys/ramunasnognys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
