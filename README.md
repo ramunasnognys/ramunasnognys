@@ -1,6 +1,9 @@
 ### Hi there, I' Ramūnas, and this is going to be my GitHub profile page 👋
 - 🌱 I’m currently learning ...
-- How to grow potatos 🥔🥔🥔
+-     How to grow potatos 🥔🥔🥔
+-     How to grow potatos 🍅🍅🍅
+-     How to grow potatos 🥦🥦🥦
+
 
 # The Web Development Bootcamp 2020
 
