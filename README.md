@@ -1,5 +1,6 @@
 ### Hi there, I' Ramūnas, and this is going to be my GitHub profile page 👋
 - 🌱 I’m currently learning ...
+- How to grow potatos 🥔🥔🥔
 
 <!--
 **ramunasnognys/ramunasnognys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
