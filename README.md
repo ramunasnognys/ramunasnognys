@@ -3,7 +3,7 @@
 # Hello 👋
 ## My name is Ramūnas. 
 ### I'm a Web Developer by Profession & Hobby.
-Front end developer at Workstride, degree in information technology with focus in web design and development. I am self-motivated, active-learner and utterly captivated 😍 by the world of web programming. My interests include type, layout, CSS animation, and illustration. These are some skills that I can be proud of  HTML5, CSS3(SASS, BEM), JavaScript, Bootstrap 4, WordPress, Vue.js. Java, Node.js(express), REST API’s, MongoDB, MySQL. Git, NPM, Gulp, Webpack, VS Code, Photoshop, Adobe XD
+I am self-motivated, active-learner and utterly captivated 😍 by the world of web programming. Strong focus in web design and development. My interests include type, layout, CSS animation, and illustration. These are some skills that I can be proud of  HTML5, CSS3(SASS, BEM), JavaScript, Bootstrap 4, WordPress, Vue.js. Java, Node.js(express), REST API’s, MongoDB, MySQL. Git, NPM, Gulp, Webpack, VS Code, Photoshop, Adobe XD
 - 🌱 I’m currently learning React.js
 
 
