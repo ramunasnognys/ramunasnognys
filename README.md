@@ -1,6 +1,6 @@
 ![](https://github.com/ramunasnognys/assets/blob/master/Breathe%20Facebook%20Cover.png?raw=true)
 
-# The Web Development Bootcamp 2020
+# Hello 👋
 
 Welcome to your new notion workspace. Here you can organize your university or school work by subject. This will help you to stay on top of your revision schedule and ensure all your work is in one space. Feel free to personalize this template for your own studies, fill in the blanks and even add your own cover at the top! 💦
 
