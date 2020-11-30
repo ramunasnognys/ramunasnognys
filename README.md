@@ -2,7 +2,10 @@
 
 # Hello 👋
 ### I'm a Web Developer by Profession & Hobby.
-
+These are some skills that I can be proud of:
+Front-end: HTML5, CSS3(SASS, BEM), JavaScript, Bootstrap 4, WordPress, Vue.js.
+Back-End: Java, Node.js(express), REST API’s, MongoDB, MySQL.
+Tools: Git, NPM, Gulp, Webpack, VS Code, Photoshop, Adobe XD
 
 
 <br>
