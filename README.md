@@ -1,4 +1,4 @@
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
+![](https://drive.google.com/file/d/1dLx9okYfonO3s7qS5tP08f96okp6t7oG/view?usp=sharing)
 ### Hi there, I' Ramūnas, and this is going to be my GitHub profile page 👋
  🌱 I’m currently learning ...
 - How to grow potatos 🥔🥔🥔
