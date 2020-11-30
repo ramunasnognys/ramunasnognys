@@ -6,7 +6,7 @@
 I am self-motivated, active-learner and utterly captivated 😍 by the world of web programming. Strong focus in web design and development. My interests include type, layout, CSS animation, and illustration. These are some skills that I can be proud of  HTML5, CSS3(SASS, BEM), JavaScript, Bootstrap 4, WordPress, Vue.js. Java, Node.js(express), REST API’s, MongoDB, MySQL. Git, NPM, Gulp, Webpack, VS Code, Photoshop, Adobe XD
 
 
-
+<br>
 - 🌱 I’m currently learning React.js
 
 
