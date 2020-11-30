@@ -3,6 +3,7 @@
 # Hello 👋
 ## My name is Ramūnas. 
 ### I'm a Web Developer by Profession & Hobby.
+Front end developer at Workstride, degree in information technology with focus in web design and development. My interests include type, layout, CSS animation, and illustration. Check out my projects and posts.
 - 🌱 I’m currently learning React.js
 
 
