@@ -3,6 +3,8 @@
 # Hello 👋
 ## My name is Ramūnas. 
 ### I'm a Web Developer by Profession & Hobby.
+- 🌱 I’m currently learning React.js
+
 
 <!--
 **ramunasnognys/ramunasnognys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
