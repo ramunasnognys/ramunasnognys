@@ -2,7 +2,7 @@
 
 # Hello 👋
 ## I'm ░R░a░m░u░n░a░s░
-### ᴵ'ᵐ ᵃ ᵂᵉᵇ ᴰᵉᵛᵉˡᵒᵖᵉʳ ᵇʸ ᴾʳᵒᶠᵉˢˢⁱᵒⁿ & ᴴᵒᵇᵇʸ.
+### 𝑰'𝒎 𝒂 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒃𝒚 𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏 & 𝑯𝒐𝒃𝒃𝒚.
 These are some skills that I can be proud of:
 Front-end: HTML5, CSS3(SASS, BEM), JavaScript, Bootstrap 4, WordPress, Vue.js.
 Back-End: Java, Node.js(express), REST API’s, MongoDB, MySQL.
