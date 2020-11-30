@@ -1,7 +1,7 @@
 ![](https://github.com/ramunasnognys/assets/blob/master/cover.png?raw=true)
 
 # Hello 👋
-## I'm ░R░a░m░u░n░a░s░
+## ░W░E░L░C░O░M░E░ ░T░O░ ░M░Y░ ░A░W░E░S░O░M░E░ ░P░A░G░E░
 ### ✞༒I'm a Web Developer by Profession & Hobby.༒✞
 These are some skills that I can be proud of:
 Front-end: HTML5, CSS3(SASS, BEM), JavaScript, Bootstrap 4, WordPress, Vue.js.
