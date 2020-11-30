@@ -1,4 +1,4 @@
-![](https://github.com/ramunasnognys/assets/blob/master/Simple%20Technology%20LinkedIn%20Banner.png?raw=true)
+![](https://github.com/ramunasnognys/assets/blob/master/cover.png?raw=true)
 
 # Hello 👋
 ## My name is Ramūnas. 
