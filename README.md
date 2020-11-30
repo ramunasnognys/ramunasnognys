@@ -9,7 +9,7 @@ Tools: Git, NPM, Gulp, Webpack, VS Code, Photoshop, Adobe XD
 
 
 <br>
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning <b>React.js</b>
 
 
 <!--
