@@ -1,6 +1,6 @@
 ![](https://github.com/ramunasnognys/assets/blob/master/cover.png?raw=true)
 
-# 🅷🅴🅻🅻🅾👋
+# 𝙃𝙚𝙡𝙡𝙤👋
 ## ░W░E░L░C░O░M░E░ ░T░O░ ░M░Y░ ░A░W░E░S░O░M░E░ ░P░A░G░E░
 ### ✞༒<b>I'm a Web Developer by Profession & Hobby.</b>༒✞
 These are some skills that I can be proud of:
@@ -9,7 +9,7 @@ Back-End: Java, Node.js(express), REST API’s, MongoDB, MySQL.
 Tools: Git, NPM, Gulp, Webpack, VS Code, Photoshop, Adobe XD
 
 <br>
-- 🌱 I’m currently learning <b>React.js</b>
+- 🌱 I’m currently learning <b>𝑹𝒆𝒂𝒄𝒕.𝒋𝒔</b>
 
 
 <!--
