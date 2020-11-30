@@ -1,4 +1,4 @@
-![](https://drive.google.com/file/d/1dLx9okYfonO3s7qS5tP08f96okp6t7oG/view?usp=sharing)
+![](https://camo.githubusercontent.com/e473af33678147d28cfa06e31f91029240f71d6ae651c5a2fce52b93e8e873ba/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6474386733726863792f696d6167652f75706c6f61642f76313539353932393537342f695f6c696b655f746f5f6275696c645f636f6f6c5f736869742e5f315f6e7a62776a682e706e67)
 ### Hi there, I' Ramūnas, and this is going to be my GitHub profile page 👋
  🌱 I’m currently learning ...
 - How to grow potatos 🥔🥔🥔
