@@ -1,4 +1,4 @@
-![](https://github.com/ramunasnognys/assets/blob/master/Breathe%20Facebook%20Cover.png?raw=true)
+![](https://github.com/ramunasnognys/assets/blob/master/cover.png?raw=true)
 
 # Hello 👋
 ### I'm a Web Developer by Profession & Hobby.
