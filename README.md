@@ -1,6 +1,7 @@
 ![](https://github.com/ramunasnognys/assets/blob/master/cover.png?raw=true)
 
 # Hello 👋
+# ░.░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░.░
 ## I'm ░R░a░m░u░n░a░s░
 ### I'm a Web Developer by Profession & Hobby.
 These are some skills that I can be proud of:
