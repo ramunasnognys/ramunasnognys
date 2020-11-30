@@ -10,7 +10,6 @@ Tools: Git, NPM, Gulp, Webpack, VS Code, Photoshop, Adobe XD
 
 <br>
 - 🌱 I’m currently learning <b>⚛️𝑹𝒆𝒂𝒄𝒕.𝒋𝒔 </b>
-<div style="text-align: right"> your-text-here </div>
 
 
 <!--
