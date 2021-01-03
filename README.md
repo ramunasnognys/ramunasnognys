@@ -4,7 +4,7 @@
 ## ░W░E░L░C░O░M░E░ ░T░O░ ░M░Y░ ░A░W░E░S░O░M░E░ ░P░A░G░E░
 
 <b>I'm a Web Developer by Profession & Hobby.</b> These are some skills that I am familiar with:
-* Front-end: HTML5, CSS3(SASS, BEM), JavaScript, Bootstrap 4, WordPress, Vue.js.
+* Front-end: HTML5, CSS3(SASS, BEM), JavaScript, Bootstrap 4, WordPress.
 * Back-End: Java, Node.js(express), REST API’s, MongoDB, MySQL.
 * Tools: Git, NPM, Gulp, Webpack, VS Code, Photoshop, Adobe XD
 
