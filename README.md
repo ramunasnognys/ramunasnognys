@@ -8,7 +8,7 @@
 * Back-End: Java, Node.js(express), REST API’s, MongoDB, MySQL.
 * Tools: Git, NPM, Gulp, Webpack, VS Code, Photoshop, Adobe XD
 
-My inspirational site of the month [**link**](http://bettermotherfuckingwebsite.com/) 
+- My inspirational site of the month [**link**](http://bettermotherfuckingwebsite.com/) 
 
 <br>
 - 🌱 I’m currently learning <b>𝑹𝒆𝒂𝒄𝒕.𝒋𝒔 </b>
