@@ -9,7 +9,7 @@
 * Tools: Git, NPM, Gulp, Webpack, VS Code, Photoshop, Adobe XD
 
 <br>
- 🤭 My inspirational site of the month [**link**](http://bettermotherfuckingwebsite.com/) <br>
+ 🤭 My inspirational site of the month [**link**](http://bettermotherfuckingwebsite.com/) 
  🌱 I’m currently learning <b>𝑹𝒆𝒂𝒄𝒕.𝒋𝒔 </b>
 
 
