@@ -1,4 +1,4 @@
-![](https://github.com/ramunasnognys/assets/blob/master/cover.png?raw=true)
+![](https://github.com/ramunasnognys/assets/blob/master/cover-new.png?raw=true)
 
 # 𝙃𝙚𝙡𝙡𝙤👋
 ## ░W░E░L░C░O░M░E░ ░T░O░ ░M░Y░ ░A░W░E░S░O░M░E░ ░P░A░G░E░
