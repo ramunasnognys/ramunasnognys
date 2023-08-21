@@ -1,28 +1,26 @@
 ![](https://github.com/ramunasnognys/assets/blob/master/cover-new.png?raw=true)
 
-# 𝙃𝙚𝙡𝙡𝙤👋
-## ░W░E░L░C░O░M░E░ ░T░O░ ░M░Y░ ░A░W░E░S░O░M░E░ ░P░A░G░E░
+👋 𝐻𝑒𝑙𝑙𝑜 there! 🚀
 
-<b>I'm a Web Developer by Profession & Hobby.</b> These are some skills that I am familiar with:
-* Front-end: HTML5, CSS3(SASS, BEM), JavaScript, Bootstrap 4, WordPress.
-* Back-End: Java, Node.js(express), REST API’s, MongoDB, MySQL.
-* Tools: Git, NPM, Gulp, Webpack, VS Code, Photoshop, Adobe XD
+🌟 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗮𝘄𝗲𝘀𝗼𝗺𝗲 𝗽𝗮𝗴𝗲! 🌟
 
- 🤬 My inspirational awesome [**site**](http://bettermotherfuckingwebsite.com/) of the month 🤷‍♂️ <br>
- 🌱 I’m currently learning <b>𝑹𝒆𝒂𝒄𝒕.𝒋𝒔 </b>
+👨‍💻 I'm a 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, crafting digital experiences with passion and precision. 🌐💡
 
+💡 𝗠𝘆 𝗔𝘄𝗲𝘀𝗼𝗺𝗲 𝗦𝗸𝗶𝗹𝗹𝘀 💡
+Front-end: HTML5, CSS3 (SASS, BEM), JavaScript, Bootstrap 4, WordPress.
+Back-End: Java, Node.js (express), REST API’s, MongoDB, MySQL.
+Tools: Git, NPM, Gulp, Webpack, VS Code, Photoshop, Adobe XD.
 
-<!--
-**ramunasnognys/ramunasnognys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ 𝗧𝗼𝗼𝗹𝘀 𝗼𝗳 𝘁𝗵𝗲 𝗧𝗿𝗮𝗱𝗲 💼
+Version Control: Git.
+Package Management: NPM.
+Build Tools: Gulp, Webpack.
+IDE: Visual Studio Code.
+Design: Photoshop, Adobe XD.
 
-Here are some ideas to get you started:
+😎 𝗖𝗼𝗼𝗹 𝗦𝗶𝘁𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗠𝗼𝗻𝘁𝗵 🌌
+🔥 Explore my inspirational site of the month!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 𝐼’𝓂 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓁𝑒𝒶𝓇𝓃𝒾𝓃𝑔 𝑅𝑒𝒶𝒸𝓉.𝒿𝓈 🌱
+
+𝕋𝕙𝕒𝕟𝕜𝕤 𝕗𝕠𝕣 𝕕𝕣𝕠𝕡𝕡𝕚𝕟𝕘 𝕓𝕪! 🤝
